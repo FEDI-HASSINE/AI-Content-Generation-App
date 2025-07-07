@@ -23,7 +23,7 @@ const Footer = () => {
         </Text>
         <HStack spacing={"20px"}>
           <FaGithub cursor={"pointer"} onClick={handleGithub} />
-          <Text>shatrukumar47@gmail.com</Text>
+          <Text>fedihassine16@gmail.com</Text>
         </HStack>
       </Stack>
     </Box>
